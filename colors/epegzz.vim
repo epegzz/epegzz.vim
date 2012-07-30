@@ -33,7 +33,7 @@ hi ErrorMsg        ctermfg=199 ctermbg=16    cterm=bold
 hi Exception       ctermfg=118               cterm=bold
 hi Float           ctermfg=135
 hi FoldColumn      ctermfg=53  ctermbg=none  cterm=bold
-hi Folded          ctermfg=53  ctermbg=none  cterm=bold
+hi Folded          ctermfg=244 ctermbg=none  cterm=bold
 hi Function        ctermfg=118
 hi Identifier      ctermfg=208
 hi Ignore          ctermfg=244 ctermbg=232
@@ -96,4 +96,7 @@ hi NonText         ctermfg=250 ctermbg=none
 
 hi ColorColumn     ctermbg=none
 
+hi TabLineFill      ctermfg=none ctermbg=237
+hi TabLine          ctermfg=236 ctermbg=243 cterm=none
+hi TabLineSel       ctermfg=232 ctermbg=252 cterm=none
 
